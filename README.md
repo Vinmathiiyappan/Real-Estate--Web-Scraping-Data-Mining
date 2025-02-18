@@ -22,7 +22,7 @@ This project leverages **web scraping and data mining** techniques to analyze re
 - Web scraping was used to collect housing data including **price, square footage, property type, number of bedrooms and bathrooms, and HOA fees**.
 
 ## Tools & Technologies
-- **Python** (BeautifulSoup, Selenium for web scraping)
+- **Python** (BeautifulSoup)
 - **Pandas, NumPy** for data processing
 - **Matplotlib, Seaborn** for data visualization
 - **Scikit-learn** for regression modeling and clustering
