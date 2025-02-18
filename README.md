@@ -29,7 +29,7 @@ This project leverages **web scraping and data mining** techniques to analyze re
 
 ## Methodology
 ### Web Scraping
-- Extracted property listings from MLS using Python's **Selenium** and **BeautifulSoup**.
+- Extracted property listings from MLS using Python's **BeautifulSoup**.
 - Collected details like price, property type, bedrooms, bathrooms, square footage, and HOA fees.
 
 ### Data Preprocessing
